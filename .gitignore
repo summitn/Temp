@@ -1,0 +1,8 @@
+AStarTest/.vsconfig
+*.csproj
+*.sln
+AStarTest/.vs/
+AStarTest/Library/
+AStarTest/Logs/
+AStarTest/obj/
+AStarTest/UserSettings/
